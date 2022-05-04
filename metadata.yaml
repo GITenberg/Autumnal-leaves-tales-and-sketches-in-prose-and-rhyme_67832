@@ -1,0 +1,46 @@
+_repo: Autumnal-leaves-tales-and-sketches-in-prose-and-rhyme_67832
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Child, Lydia Maria
+    aliases:
+    - Child, L. Maria (Lydia Maria)
+    - Francis, Lydia Maria
+    - Child, Lydia Maria Francis
+    birthdate: 1802
+    deathdate: 1880
+    gutenberg_agent_id: '2732'
+    url: http://www.gutenberg.org/2009/agents/2732
+    wikipedia: https://en.wikipedia.org/wiki/Lydia_Maria_Child
+description: ''
+gutenberg_issued: '2022-04-14'
+identifiers:
+  gutenberg: '67832'
+  lccn: '21021174'
+language: en
+pgterms:marc904: https://archive.org/details/autumnalleavesta00chil/page/n7/mode/2up
+pgterms:marc905: 20200914221047child
+pgterms:marc906: '1856'
+pgterms:marc907: US
+production_note: Charlene Taylor, Chuck Greif and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: United States :C.S. Francis & Co.,1856,pubdate 1857.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'American essays -- 19th century'
+- !lcsh 'American fiction -- 19th century'
+- !lcsh 'Short stories, American'
+- GITenberg
+tableOfContents: The eglantine -- A serenade -- The juryman -- The fairy friend --
+  Wergeland, the poet -- The emigrant boy -- Home and politics -- To the trailing
+  arbutus -- The Catholic and the Quaker -- The rival mechanicians -- A song -- Utouch
+  and Touchu -- The brother and sister -- The stream of life -- The man that killed
+  his neighbours -- Intelligence of animals -- The world that I am passing through
+  -- Jan and Zaida -- To the nasturtium -- The ancient clairvoyant -- Spirit and matter
+  -- The Kansas emigrants -- I want to go home.
+title: 'Autumnal leaves: tales and sketches in prose and rhyme'
+url: http://www.gutenberg.org/ebooks/67832
